@@ -1,0 +1,50 @@
+{
+  "name": "Kids Game",
+  "version": "1.0.0",
+  "description": "Kids Game NodeJs",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.949.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "class-validator": "^0.13.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "fs": "0.0.1-security",
+    "helmet": "^4.6.0",
+    "jm-ez-l10n": "^1.0.0",
+    "jm-ez-mysql": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "mysql": "^2.18.1",
+    "node-input-validator": "^4.4.1",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^6.6.1",
+    "path": "^0.12.7",
+    "validator": "^13.6.0",
+    "validatorjs": "^3.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbsphpdev/Kids-Game-NodeJs.git"
+  },
+  "author": "escaply",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbsphpdev/Kids-Game-NodeJs/issues"
+  },
+  "homepage": "https://github.com/tbsphpdev/Kids-Game-NodeJs#readme"
+}

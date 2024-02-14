@@ -1,0 +1,25 @@
+{
+    "ERR_INTERNAL_SERVER": "Internal Server Error.",
+    "ERR_URL_NOT_FOUND": "Requested URL not found!",
+    "SUCCESS": "Success",
+    "ERR_UNAUTH": "You are unauthorized.",
+    "ERR_EMAIL_ALREADY_USED": "Email address already exists.",
+    "FAILED": "Request Failed",
+    "ERR_INVALID_CRIDENTIAL":"Invalid credential.",
+    "ERR_EMAIL_NOT_EXIST":"E-mail does not exists.",
+    "ERR_USER_NOT_FOUND":"User not found",
+    "PASSWORD_RESET" : "Password reset successfully",
+    "PASSWORD_INCORRECT" : "Old Password Not Match",
+    "PASSWORD_UPDATED" : "Password Updated Successfully",
+    "ERR_TOKEN_EXP": "Your session is expired, please try login again.",
+    "ERR_INVALID_PASSWORD" : "Please enter Correct Current Password.",
+    "ERR_ACCOUNT_NOT_ACTIVE" : "Your account is not verified.!",
+    "ERR_QUESTION_EMPTY":"No record found",
+    "ERR_GAMECODE_NOT_EXIST":"Please enter valid game code.",
+    "ERR_GAME_EMPTY" : "No record found",
+    "ERR_MEDIATYPE" : "Invalid media type",
+    "ERR_GAME_CLOSED" : "Game is closed by the creator",
+    "ERR_JOINING_CLOSED" : "Joining is closed right now, you can join 10 min before starting",
+    "ERR_MISMATCH_FORMAT_TYPE" : "Mismatch media type and file format"
+
+}
